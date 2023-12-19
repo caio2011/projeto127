@@ -1,0 +1,22 @@
+body
+{
+    background-color: lightblue;
+}
+
+#pontuacao
+{
+    font-size: 25px;
+    margin-left: 16px;
+}
+
+#tempo
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 16px;
+}
+
+#tempo
+{
+    color: red;
+}
